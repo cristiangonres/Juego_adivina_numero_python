@@ -23,4 +23,4 @@ while numero != numero_input and intentos >= 0:
             print('El número es mayor, sigue probando')
         print(f'Te quedan {intentos} intentos')
 else:
-    print('Has perdido la partida, eres un fracasdo')
+    print('GAME OVER')
